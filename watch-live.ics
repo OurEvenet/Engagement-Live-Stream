@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OurEvenet//Engagement Live Stream//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gayathri-ashen-live-20261016@ourevenet.github.io
+DTSTAMP:20261015T000000Z
+DTSTART:20261016T033000Z
+DTEND:20261016T093000Z
+SUMMARY:Watch live: Gayathri & Ashen's engagement
+DESCRIPTION:Watch the engagement of Gayathri & Ashen live from Hotel Chance Palace\, Veyangoda.\n\nhttps://ourevenet.github.io/Engagement-Live-Stream/
+LOCATION:https://ourevenet.github.io/Engagement-Live-Stream/
+URL:https://ourevenet.github.io/Engagement-Live-Stream/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gayathri & Ashen's engagement goes live in 15 minutes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+{
+  "name": "Gayathri & Ashen · Watch Live",
+  "short_name": "Watch Live",
+  "description": "Watch the engagement of Gayathri & Ashen live. Friday 16 October 2026, 9.00 AM Sri Lanka time.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
